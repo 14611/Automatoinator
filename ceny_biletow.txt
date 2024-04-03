@@ -1,0 +1,3 @@
+bilet normalny,3
+bilet calodniowy,10
+bilet miesieczny,210

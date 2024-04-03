@@ -1,0 +1,4 @@
+flat white,20.50
+flat black,19.50
+flat mocha,20.50
+caramel macchiato,26.00
